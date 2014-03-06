@@ -1,0 +1,5 @@
+c:\users\sam\documents\visual studio 2012\Projects\CSVRowWidthFixer\CSVRowWidthFixer\obj\Debug\CSVRowWidthFixer.csprojResolveAssemblyReference.cache
+c:\users\sam\documents\visual studio 2012\Projects\CSVRowWidthFixer\CSVRowWidthFixer\bin\Debug\crwf.exe
+c:\users\sam\documents\visual studio 2012\Projects\CSVRowWidthFixer\CSVRowWidthFixer\bin\Debug\crwf.pdb
+c:\users\sam\documents\visual studio 2012\Projects\CSVRowWidthFixer\CSVRowWidthFixer\obj\Debug\crwf.exe
+c:\users\sam\documents\visual studio 2012\Projects\CSVRowWidthFixer\CSVRowWidthFixer\obj\Debug\crwf.pdb

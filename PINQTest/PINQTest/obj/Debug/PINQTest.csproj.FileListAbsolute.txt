@@ -1,0 +1,23 @@
+C:\Users\Sam\documents\visual studio 2012\Projects\PINQTest\PINQTest\obj\Debug\PINQTest.csprojResolveAssemblyReference.cache
+C:\Users\Sam\documents\visual studio 2012\Projects\PINQTest\PINQTest\obj\Debug\PINQTest.Form1.resources
+C:\Users\Sam\documents\visual studio 2012\Projects\PINQTest\PINQTest\obj\Debug\PINQTest.Properties.Resources.resources
+C:\Users\Sam\documents\visual studio 2012\Projects\PINQTest\PINQTest\obj\Debug\PINQTest.csproj.GenerateResource.Cache
+C:\Users\Sam\documents\visual studio 2012\Projects\PINQTest\PINQTest\bin\Debug\PINQTest.exe.config
+C:\Users\Sam\documents\visual studio 2012\Projects\PINQTest\PINQTest\bin\Debug\PINQTest.exe
+C:\Users\Sam\documents\visual studio 2012\Projects\PINQTest\PINQTest\bin\Debug\PINQTest.pdb
+C:\Users\Sam\documents\visual studio 2012\Projects\PINQTest\PINQTest\bin\Debug\PINQ.dll
+C:\Users\Sam\documents\visual studio 2012\Projects\PINQTest\PINQTest\bin\Debug\PINQ.pdb
+C:\Users\Sam\documents\visual studio 2012\Projects\PINQTest\PINQTest\bin\Debug\PINQ.xml
+C:\Users\Sam\documents\visual studio 2012\Projects\PINQTest\PINQTest\obj\Debug\PINQTest.exe
+C:\Users\Sam\documents\visual studio 2012\Projects\PINQTest\PINQTest\obj\Debug\PINQTest.pdb
+C:\Users\Sam\Dropbox\SharingMarcoSam\PINQTest\PINQTest\bin\Debug\PINQTest.exe.config
+C:\Users\Sam\Dropbox\SharingMarcoSam\PINQTest\PINQTest\obj\Debug\PINQTest.exe
+C:\Users\Sam\Dropbox\SharingMarcoSam\PINQTest\PINQTest\obj\Debug\PINQTest.pdb
+C:\Users\Sam\Dropbox\SharingMarcoSam\PINQTest\PINQTest\bin\Debug\PINQTest.exe
+C:\Users\Sam\Dropbox\SharingMarcoSam\PINQTest\PINQTest\bin\Debug\PINQTest.pdb
+C:\Users\Sam\Dropbox\SharingMarcoSam\PINQTest\PINQTest\bin\Debug\PINQ.pdb
+C:\Users\Sam\Dropbox\SharingMarcoSam\PINQTest\PINQTest\bin\Debug\PINQ.xml
+C:\Users\Sam\Dropbox\SharingMarcoSam\PINQTest\PINQTest\obj\Debug\PINQTest.csprojResolveAssemblyReference.cache
+C:\Users\Sam\Dropbox\SharingMarcoSam\PINQTest\PINQTest\obj\Debug\PINQTest.Form1.resources
+C:\Users\Sam\Dropbox\SharingMarcoSam\PINQTest\PINQTest\obj\Debug\PINQTest.Properties.Resources.resources
+C:\Users\Sam\Dropbox\SharingMarcoSam\PINQTest\PINQTest\obj\Debug\PINQTest.csproj.GenerateResource.Cache

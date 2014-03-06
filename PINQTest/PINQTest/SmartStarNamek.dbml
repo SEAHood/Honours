@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="smartstardb" Class="SmartStarNamekDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=namek.computing.dundee.ac.uk;Initial Catalog=smartstardb;User ID=smartstaruser" SettingsObjectName="PINQTest.Properties.Settings" SettingsPropertyName="smartstardbConnectionString2" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Environmental" Member="Environmentals">
+    <Type Name="Environmental">
+      <Column Name="TimestampUTC" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Column Name="insideTemp" Type="System.Decimal" DbType="Decimal(10,5)" CanBeNull="true" />
+      <Column Name="outsideTemp" Type="System.Decimal" DbType="Decimal(10,5)" CanBeNull="true" />
+      <Column Name="insideHumidity" Type="System.Decimal" DbType="Decimal(10,5)" CanBeNull="true" />
+      <Column Name="outsideHumidity" Type="System.Decimal" DbType="Decimal(10,5)" CanBeNull="true" />
+      <Column Name="windSpeed" Type="System.Decimal" DbType="Decimal(10,5)" CanBeNull="true" />
+      <Column Name="windDirectionDegrees" Type="System.Decimal" DbType="Decimal(10,5)" CanBeNull="true" />
+      <Column Name="windGust" Type="System.Decimal" DbType="Decimal(10,5)" CanBeNull="true" />
+      <Column Name="windGustDirectionDegrees" Type="System.Decimal" DbType="Decimal(10,5)" CanBeNull="true" />
+      <Column Name="rainRate" Type="System.Decimal" DbType="Decimal(10,5)" CanBeNull="true" />
+      <Column Name="rain" Type="System.Decimal" DbType="Decimal(10,5)" CanBeNull="true" />
+      <Column Name="windChill" Type="System.Decimal" DbType="Decimal(10,5)" CanBeNull="true" />
+      <Column Name="heatindex" Type="System.Decimal" DbType="Decimal(10,5)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Circuit" Member="Circuits">
+    <Type Name="Circuit">
+      <Column Name="CircuitName" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="CircuitNumber" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="TimestampUTC" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Column Name="RealPowerWatts" Type="System.Decimal" DbType="Decimal(18,4)" CanBeNull="true" />
+      <Column Name="ApparentPowerVAs" Type="System.Decimal" DbType="Decimal(18,4)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Function Name="dbo.GetAllInsideTemp" Method="GetAllInsideTemp">
+    <ElementType Name="GetAllInsideTempResult">
+      <Column Name="insideTemp" Type="System.Decimal" DbType="Decimal(10,5)" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.TestProc" Method="TestProc">
+    <ElementType Name="TestProcResult">
+      <Column Name="RealPowerWatts" Type="System.Decimal" DbType="Decimal(18,4)" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.GetAllCircuitByTS" Method="GetAllCircuitByTS">
+    <ElementType Name="GetAllCircuitByTSResult">
+      <Column Name="Power" Type="System.Decimal" DbType="Decimal(18,4)" CanBeNull="true" />
+      <Column Name="TimestampUTC" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+    </ElementType>
+  </Function>
+</Database>

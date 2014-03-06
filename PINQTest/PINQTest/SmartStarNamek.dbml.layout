@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="SmartStarNamek">
+  <DataContextMoniker Name="/SmartStarNamekDataContext" />
+  <nestedChildShapes>
+    <classShape Id="dc4dcd10-d89a-48e6-a04b-37d617a42d12" absoluteBounds="1.625, 0.5, 2, 3.3093082682291666">
+      <DataClassMoniker Name="/SmartStarNamekDataContext/Environmental" />
+      <nestedChildShapes>
+        <elementListCompartment Id="03780724-0d53-4263-bafe-0c3bf072a899" absoluteBounds="1.6399999999999997, 0.96, 1.9700000000000002, 2.7493082682291665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="60f1383c-7e3b-44bc-9536-4599fa915870" absoluteBounds="3.75, 0.5, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/SmartStarNamekDataContext/Circuit" />
+      <nestedChildShapes>
+        <elementListCompartment Id="8f50b7aa-9c10-4013-af71-e531c8d55dbb" absoluteBounds="3.7649999999999997, 0.96, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
